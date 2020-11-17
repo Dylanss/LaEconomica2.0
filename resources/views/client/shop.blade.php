@@ -58,21 +58,21 @@
           </a>
           <div class="dropdown-menu dropdown-menu-right">
 				    <div class="dropdown-item d-flex align-items-start" href="#">
-				    	<div class="img" style="background-image: url(images/prod-1.jpg);"></div>
+				    	<div class="img" style="background-image: url(frontend/images/prod-1.jpg);"></div>
 				    	<div class="text pl-3">
 				    		<h4>Bacardi 151</h4>
 				    		<p class="mb-0"><a href="#" class="price">$25.99</a><span class="quantity ml-3">Quantity: 01</span></p>
 				    	</div>
 				    </div>
 				    <div class="dropdown-item d-flex align-items-start" href="#">
-				    	<div class="img" style="background-image: url(images/prod-2.jpg);"></div>
+				    	<div class="img" style="background-image: url(frontend/images/prod-2.jpg);"></div>
 				    	<div class="text pl-3">
 				    		<h4>Jim Beam Kentucky Straight</h4>
 				    		<p class="mb-0"><a href="#" class="price">$30.89</a><span class="quantity ml-3">Quantity: 02</span></p>
 				    	</div>
 				    </div>
 				    <div class="dropdown-item d-flex align-items-start" href="#">
-				    	<div class="img" style="background-image: url(images/prod-3.jpg);"></div>
+				    	<div class="img" style="background-image: url(frontend/images/prod-3.jpg);"></div>
 				    	<div class="text pl-3">
 				    		<h4>Citadelle</h4>
 				    		<p class="mb-0"><a href="#" class="price">$22.50</a><span class="quantity ml-3">Quantity: 01</span></p>
@@ -111,7 +111,7 @@
 	  </nav>
     <!-- END nav -->
     
-    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_2.jpg');" data-stellar-background-ratio="0.5">
+    <section class="hero-wrap hero-wrap-2" style="background-image: url(frontend/'images/bg_2.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text align-items-end justify-content-center">
@@ -143,7 +143,7 @@
 						<div class="row">
 							<div class="col-md-4 d-flex">
 								<div class="product ftco-animate">
-									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/prod-1.jpg);">
+									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(frontend/images/prod-1.jpg);">
 										<div class="desc">
 											<p class="meta-prod d-flex">
 												<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-shopping-bag"></span></a>
@@ -162,7 +162,7 @@
 							</div>
 							<div class="col-md-4 d-flex">
 								<div class="product ftco-animate">
-									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/prod-2.jpg);">
+									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(frontend/images/prod-2.jpg);">
 										<div class="desc">
 											<p class="meta-prod d-flex">
 												<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-shopping-bag"></span></a>
@@ -181,7 +181,7 @@
 							</div>
 							<div class="col-md-4 d-flex">
 								<div class="product ftco-animate">
-									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/prod-3.jpg);">
+									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(frontend/images/prod-3.jpg);">
 										<div class="desc">
 											<p class="meta-prod d-flex">
 												<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-shopping-bag"></span></a>
@@ -200,7 +200,7 @@
 							</div>
 							<div class="col-md-4 d-flex">
 								<div class="product ftco-animate">
-									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/prod-4.jpg);">
+									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(frontend/images/prod-4.jpg);">
 										<div class="desc">
 											<p class="meta-prod d-flex">
 												<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-shopping-bag"></span></a>
@@ -219,7 +219,7 @@
 
 							<div class="col-md-4 d-flex">
 								<div class="product ftco-animate">
-									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/prod-5.jpg);">
+									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(frontend/images/prod-5.jpg);">
 										<div class="desc">
 											<p class="meta-prod d-flex">
 												<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-shopping-bag"></span></a>
@@ -237,7 +237,7 @@
 							</div>
 							<div class="col-md-4 d-flex">
 								<div class="product ftco-animate">
-									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/prod-6.jpg);">
+									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(frontend/images/prod-6.jpg);">
 										<div class="desc">
 											<p class="meta-prod d-flex">
 												<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-shopping-bag"></span></a>
@@ -255,7 +255,7 @@
 							</div>
 							<div class="col-md-4 d-flex">
 								<div class="product ftco-animate">
-									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/prod-7.jpg);">
+									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(frontend/images/prod-7.jpg);">
 										<div class="desc">
 											<p class="meta-prod d-flex">
 												<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-shopping-bag"></span></a>
@@ -273,7 +273,7 @@
 							</div>
 							<div class="col-md-4 d-flex">
 								<div class="product ftco-animate">
-									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/prod-8.jpg);">
+									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(frontend/images/prod-8.jpg);">
 										<div class="desc">
 											<p class="meta-prod d-flex">
 												<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-shopping-bag"></span></a>
@@ -291,7 +291,7 @@
 							</div>
 							<div class="col-md-4 d-flex">
 								<div class="product ftco-animate">
-									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/prod-9.jpg);">
+									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(frontend/images/prod-9.jpg);">
 										<div class="desc">
 											<p class="meta-prod d-flex">
 												<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-shopping-bag"></span></a>
@@ -309,7 +309,7 @@
 							</div>
 							<div class="col-md-4 d-flex">
 								<div class="product ftco-animate">
-									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/prod-10.jpg);">
+									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(frontend/images/prod-10.jpg);">
 										<div class="desc">
 											<p class="meta-prod d-flex">
 												<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-shopping-bag"></span></a>
@@ -327,7 +327,7 @@
 							</div>
 							<div class="col-md-4 d-flex">
 								<div class="product ftco-animate">
-									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/prod-11.jpg);">
+									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(frontend/images/prod-11.jpg);">
 										<div class="desc">
 											<p class="meta-prod d-flex">
 												<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-shopping-bag"></span></a>
@@ -345,7 +345,7 @@
 							</div>
 							<div class="col-md-4 d-flex">
 								<div class="product ftco-animate">
-									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/prod-12.jpg);">
+									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(frontend/images/prod-12.jpg);">
 										<div class="desc">
 											<p class="meta-prod d-flex">
 												<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-shopping-bag"></span></a>
@@ -397,7 +397,7 @@
             <div class="sidebar-box ftco-animate">
               <h3>Recent Blog</h3>
               <div class="block-21 mb-4 d-flex">
-                <a class="blog-img mr-4" style="background-image: url(images/image_1.jpg);"></a>
+                <a class="blog-img mr-4" style="background-image: url(frontend/images/image_1.jpg);"></a>
                 <div class="text">
                   <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
                   <div class="meta">
@@ -407,7 +407,7 @@
                 </div>
               </div>
               <div class="block-21 mb-4 d-flex">
-                <a class="blog-img mr-4" style="background-image: url(images/image_2.jpg);"></a>
+                <a class="blog-img mr-4" style="background-image: url(frontend/images/image_2.jpg);"></a>
                 <div class="text">
                   <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
                   <div class="meta">
@@ -417,7 +417,7 @@
                 </div>
               </div>
               <div class="block-21 mb-4 d-flex">
-                <a class="blog-img mr-4" style="background-image: url(images/image_3.jpg);"></a>
+                <a class="blog-img mr-4" style="background-image: url(frontend/images/image_3.jpg);"></a>
                 <div class="text">
                   <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
                   <div class="meta">
@@ -513,21 +513,21 @@
   <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
 
 
-  <script src="js/jquery.min.js"></script>
-  <script src="js/jquery-migrate-3.0.1.min.js"></script>
-  <script src="js/popper.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/jquery.easing.1.3.js"></script>
-  <script src="js/jquery.waypoints.min.js"></script>
-  <script src="js/jquery.stellar.min.js"></script>
-  <script src="js/owl.carousel.min.js"></script>
-  <script src="js/jquery.magnific-popup.min.js"></script>
-  <script src="js/jquery.animateNumber.min.js"></script>
-  <script src="js/scrollax.min.js"></script>
+  <script src="frontend/js/jquery.min.js"></script>
+  <script src="frontend/js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="frontend/js/popper.min.js"></script>
+  <script src="frontend/js/bootstrap.min.js"></script>
+  <script src="frontend/js/jquery.easing.1.3.js"></script>
+  <script src="frontend/js/jquery.waypoints.min.js"></script>
+  <script src="frontend/js/jquery.stellar.min.js"></script>
+  <script src="frontend/js/owl.carousel.min.js"></script>
+  <script src="frontend/js/jquery.magnific-popup.min.js"></script>
+  <script src="frontend/js/jquery.animateNumber.min.js"></script>
+  <script src="frontend/js/scrollax.min.js"></script>
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
-  <script src="js/google-map.js"></script>
+  <script src="frontend/js/google-map.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.1/js/bootstrap-select.min.js"></script>
-  <script src="js/main.js"></script>
+  <script src="frontend/js/main.js"></script>
     
   </body>
 </html>
