@@ -13,6 +13,13 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
+/*Route::get('/', function () {
     return view('welcome');
-});
+});*/
+
+Route::get('/', 'ClientController@home');
+
+Route::get('/cart', 'ClientController@cart');
+Route::get('/', 'ClientController@home');
+Route::get('/', 'ClientController@home');
+Route::get('/', 'ClientController@home');
